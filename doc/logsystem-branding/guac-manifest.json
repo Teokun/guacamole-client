@@ -2,10 +2,12 @@
     "guacamoleVersion" : "*",
     "name"             : "LOGSystem Branding",
     "namespace"        : "logsystem-branding",
+    "smallIcon" : "images/logsystem-64.png",
+    "largeIcon" : "images/logsystem-144.png",
     
     "css" : [
         "css/0-font-raleway.css",
-        "css/example.css"
+        "css/logsystem.css"
     ],
     
     "html" : [
@@ -25,7 +27,9 @@
         "resources/fonts/raleway/Raleway-Regular.otf"  : "application/x-font-opentype",
         "resources/fonts/raleway/Raleway-Regular.ttf"  : "application/x-font-TrueType",
         "resources/fonts/raleway/Raleway-Regular.woff" : "application/font-woff",
-        "resources/images/LogSystem-4-voiles.png" : "image/png"
+        "resources/images/LogSystem-4-voiles.png" : "image/png",
+        "images/logsystem-64.png" : "image/png",
+        "images/logsystem-144.png" : "image/png"
     },
     
     "translations" : [
