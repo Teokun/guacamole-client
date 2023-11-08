@@ -26,7 +26,8 @@
         "resources/fonts/raleway/Raleway-Regular.otf"  : "application/x-font-opentype",
         "resources/fonts/raleway/Raleway-Regular.ttf"  : "application/x-font-TrueType",
         "resources/fonts/raleway/Raleway-Regular.woff" : "application/font-woff",
-        "resources/images/saturn/saturn.png" : "image/png"
+        "_resources/images/saturn/saturn.png" : "image/png",
+        "resources/images/saturn/LogSystem-4-voiles.png" : "image/png"
     },
     
     "translations" : [
