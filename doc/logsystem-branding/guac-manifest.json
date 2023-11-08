@@ -4,7 +4,6 @@
     "namespace"        : "logsystem-branding",
     
     "css" : [
-        "logo.css",
         "css/0-font-raleway.css",
         "css/example.css"
     ],
