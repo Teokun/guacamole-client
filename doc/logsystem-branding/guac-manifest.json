@@ -26,7 +26,7 @@
         "resources/fonts/raleway/Raleway-Regular.otf"  : "application/x-font-opentype",
         "resources/fonts/raleway/Raleway-Regular.ttf"  : "application/x-font-TrueType",
         "resources/fonts/raleway/Raleway-Regular.woff" : "application/font-woff",
-        "logsystem/LogSystem-4-voiles.png" : "image/png"
+        "resources/images/LogSystem-4-voiles.png" : "image/png"
     },
     
     "translations" : [
