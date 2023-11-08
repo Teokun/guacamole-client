@@ -30,11 +30,11 @@
  */
 .login-ui .login-dialog .logo {
     width: 5em;
-    height: 3em;
-    background-size:         5em 3em;
-    -moz-background-size:    5em 3em;
-    -webkit-background-size: 5em 3em;
-    -khtml-background-size:  5em 3em;
+    height: 5em;
+    background-size:         5em 5em;
+    -moz-background-size:    5em 5em;
+    -webkit-background-size: 5em 5em;
+    -khtml-background-size:  5em 5em;
     background-image: url('app/ext/logsystem-branding/resources/images/LogSystem-4-voiles.png');
 }
 
